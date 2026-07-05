@@ -1,2 +1,4 @@
-id,date,category,problem,idea,target_user,source,useful,delightful,beautiful,status,notes
-1,2026-07-05,social,술자리에서 대화 시작이 어렵다,아이스브레이킹 앱,처음 만난 사람,daily life,,,,,
+id,date,problem,target_user,source,category,idea,useful,delightful,beautiful,status,notes
+1,2026-07-05,처음 만난 사람과 대화 시작이 어렵다.,처음 만난 사람,daily_life,social,아이스브레이킹 앱,,,,,
+2,2026-07-05,휴대폰으로 떠오른 아이디어를 빠르게 정리하기 어렵다.,본인,daily_life,productivity,,,,,,
+3,2026-07-05,내가 진정 원하는게 뭔지 파악하기 어렵다.,본인,daily_life,self_improvement,,,,,,
