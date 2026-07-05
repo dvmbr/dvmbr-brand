@@ -1,23 +1,27 @@
 # dvmbr-brand
 
-전체 톤 -> “미드나잇 블랙 공간 + 초고채도 레드/민트 네온”.
-감정으로는 차갑고 공격적인데, 정교하게 절제된 느낌이야.
+## 세상에 어떤 것을 계속 추가하고싶은가?
 
-1) 컬러 무드 -> 강한 대비, SF/하이테크/사이버
-	•	space-950/900/800 -> 완전 블랙이 아니라 딥 네이비/미드나잇이라서 화면이 “먹먹하게” 죽지 않고 공간감(레이어) 이 살아있음.
-	•	brand-red #ff3131 + brand-mint #67fff0 -> 서로 성격이 너무 다른 색을 일부러 충돌시키는 조합이라 네온 간판 같은 긴장감, “경고/속도/에너지”가 확 생김.
-	•	ink-700 #8892b0 -> 회색이 따뜻한 회색이 아니라 차가운 블루그레이라서 전체가 더 “기술적”으로 보임.
+1. 사람들의 시간을 아껴주는 것
+2. 사람들을 웃게 하는 것
+3. 아름다운 경험을 만드는 것
 
-2) 타이포 무드 -> 헤드라인이 브랜드를 지배
-	•	본문 Pretendard + Inter -> 읽기 안정성 좋고 “제품/서비스” 같은 실무적 신뢰가 생김.
-	•	제목 Syne(800) + Noto Sans KR(900) -> 헤드라인이 굵고 단단하게 찍히는 타입이라 “강한 선언문”처럼 보임.
-	•	JetBrains Mono 700 -> 데이터/코드/라벨이 들어가면 테크 감성이 즉시 강화됨.
+## Mission
 
-3) 디테일 무드 -> 미니멀인데, 통제감이 강함
-	•	보더가 rgba(255,255,255,0.05~0.2) -> 거의 안 보이지만 “여기 경계가 있다”를 알려주는 방식이라 고급 UI(어두운 테마) 느낌이 잘 남.
-	•	스크롤바 4px + 브랜드 레드 -> 작은 요소까지 “브랜드가 통제한다”는 인상. (강렬한 대신 자주 보면 피로감도 올 수 있음)
-	•	radius-none vs radius-full -> 카드/레이아웃은 각진 신뢰, 버튼은 캡슐형 액션으로 역할 대비가 명확해짐.
+Create products and experiences that save people time, bring moments of joy and make everyday life more beautiful.
 
-4) 사용자에게 전달되는 인상 한 줄
+## Core Values
 
-“차가운 심연 위에, 빨간 경고등과 민트 하이라이트로 몰입을 강제하는 하이엔드 다크 UI”
+- Useful      : 시간을 아껴준다
+- Delightful  : 웃게 한다
+- Beautiful   : 아름다운 경험을 준다
+
+## Principles
+
+- Authentic   : 진정성과 솔직함을 잃지 않는다
+- Original    : 남들을 따라가기보다, 나만의 시각으로 만든다
+- Crafted     : 작은 디테일까지 신경 쓴다
+
+---
+
+dvmbr exists to make everyday life a little easier, a little more joyful, and a little more beautiful.
